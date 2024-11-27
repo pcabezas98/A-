@@ -1,4 +1,4 @@
-# Sopa de letras Java
+# Creacion Algoritmo A *
 
 Codigo en Python del algoritmo A* UNAB
 
